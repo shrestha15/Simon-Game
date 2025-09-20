@@ -1,0 +1,1 @@
+An interactive, memory-based web game using HTML, CSS, and JavaScript. The game generates progressively complex sequences of lights and sounds that users must replicate, enhancing focus and recall through engaging gameplay.
